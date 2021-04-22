@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Usb.Net.Android</name>
+    </assembly>
+    <members>
+        <member name="M:Usb.Net.Android.AndroidUsbInterface.PerformControlTransferAndroid(Android.Hardware.Usb.UsbDeviceConnection,Usb.Net.SetupPacket,System.Byte[],System.Nullable{System.Int32},System.Threading.CancellationToken)">
+            <summary>
+            This is the low level call to do a control transfer at the Android level. This can be overriden in the contructor
+            </summary>
+        </member>
+        <member name="T:Usb.Net.Android.AndroidUsbInterfaceManager">
+             <summary>
+            <inheritdoc cref="T:Usb.Net.IUsbInterfaceManager"/>
+             </summary>
+        </member>
+        <member name="T:Usb.Net.Android.UsbPermissionBroadcastReceiver">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Usb.Net.Android.UsbPermissionBroadcastReceiver.RequestUsbIntentAction">
+            <summary>
+            Just used as a filter for the UsbPermissionBroadcastReceiver
+            </summary>
+        </member>
+    </members>
+</doc>

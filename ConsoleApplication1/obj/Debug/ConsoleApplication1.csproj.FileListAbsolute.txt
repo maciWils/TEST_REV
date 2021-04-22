@@ -1,0 +1,2 @@
+/Users/maci/RiderProjects/TEST_REV/ConsoleApplication1/obj/Debug/ConsoleApplication1.csprojAssemblyReference.cache
+/Users/maci/RiderProjects/TEST_REV/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache
